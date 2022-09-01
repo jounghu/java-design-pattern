@@ -8,8 +8,13 @@
 的框架源码。让源码变得容易理解，这样学习的效率就会快很多
 
 代码的实现来源于:
+
 > https://java-design-patterns.com/patterns
 
 ## API Gateway
 
+Tags: 云分布式，解耦，微服务
 
+归类: 架构
+
+文档链接:[网关设计模式](docs/API-Gateway.md)
