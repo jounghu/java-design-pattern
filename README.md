@@ -18,3 +18,11 @@ Tags: 云分布式，解耦，微服务
 归类: 架构
 
 文档链接:[网关设计模式](docs/API-Gateway.md)
+
+## Abstract Document
+
+Tags: 扩展性
+
+归类: 结构形
+
+文档链接:[抽象文档设计模式](docs/Abstract-Document.md)
