@@ -40,3 +40,5 @@ Tags: `Gang of four`
 Tags: `性能`
 
 分类：`并发`
+
+文档链接:[Active Object(活动对象)](./docs/Active-Object.md)
