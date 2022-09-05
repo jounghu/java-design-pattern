@@ -42,3 +42,11 @@ Tags: `性能`
 分类：`并发`
 
 文档链接:[Active Object(活动对象)](./docs/Active-Object.md)
+
+# Acyclic Visitor 无环访问者
+
+Tags: `扩展性`
+
+分类: `行为型`
+
+文档链接: [Acyclic Visitor 无环访问者](./docs/Acyclic-Visitor.md)
