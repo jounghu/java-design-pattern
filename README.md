@@ -50,3 +50,11 @@ Tags: `扩展性`
 分类: `行为型`
 
 文档链接: [Acyclic Visitor 无环访问者](./docs/Acyclic-Visitor.md)
+
+# Adapter 适配器
+
+Tags: `Gang of four`
+
+分类: `结构性`
+
+文档链接: [Adapter 适配器](./docs/Adapter.md)
